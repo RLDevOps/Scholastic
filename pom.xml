@@ -17,7 +17,7 @@
 -->
 		<repository>
 			<id>scholastic</id>
-			<url>http://devops.relevancelab.com/nexus/content/repositories/scholastic</url>
+			<url>http://conztanz.relevancelab.com/nexus/content/repositories/scholastic</url>
 		</repository>
 	</distributionManagement>
 	
