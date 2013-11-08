@@ -9,15 +9,15 @@
 	<name>Scholastic Maven Webapp</name>
 	<url>http://www.olat.org/</url>
 	<distributionManagement>
-		<repository>
+		<!-- <repository>
 			<id>Demo</id>
 			<url>http://devops.relevancelab.com/nexus/content/repositories/Demo</url>
-		</repository>
-
-		<!-- <repository>
-			<id>scholastic</id>
-			<url>http://conztanz.relevancelab.com/nexus/content/repositories/scholastic</url>
 		</repository> -->
+
+		<repository>
+			<id>scholastic</id>
+			<url>http://devops.relevancelab.com/nexus/content/repositories/scholastic</url>
+		</repository>
 	</distributionManagement>
 	
 	<!-- <scm>
