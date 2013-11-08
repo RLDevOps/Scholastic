@@ -4,21 +4,21 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.rl.scholastic</groupId>
 	<artifactId>Scholastic</artifactId>
-	<version>1.1.0.10</version>
+	<version>1.0.0.1</version>
 	<packaging>war</packaging>
 	<name>Scholastic Maven Webapp</name>
 	<url>http://www.olat.org/</url>
 	<distributionManagement>
-<!--		<repository>
+		<repository>
 			<id>Nexus-Common-Server-42</id>
 			<name>Common Utils</name>
-			<url>http://192.168.105.42:8081/nexus/content/repositories/scholastic/</url>
+			<url>http://devops.relevancelab.com/nexus/content/repositories/Demo/</url>
 		</repository>
--->
-		<repository>
+
+		<!-- <repository>
 			<id>scholastic</id>
 			<url>http://conztanz.relevancelab.com/nexus/content/repositories/scholastic</url>
-		</repository>
+		</repository> -->
 	</distributionManagement>
 	
 	<!-- <scm>
