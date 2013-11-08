@@ -10,9 +10,8 @@
 	<url>http://www.olat.org/</url>
 	<distributionManagement>
 		<repository>
-			<id>Nexus-Common-Server-42</id>
-			<name>Common Utils</name>
-			<url>http://devops.relevancelab.com/nexus/content/repositories/Demo/</url>
+			<id>Demo</id>
+			<url>http://devops.relevancelab.com/nexus/content/repositories/Demo</url>
 		</repository>
 
 		<!-- <repository>
